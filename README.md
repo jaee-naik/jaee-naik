@@ -28,7 +28,7 @@ I'm a Computer Engineering student interested in Data Analytics, Data Science, a
 - Created dashboards to explore agricultural production and related trends.
 - Tools: Power BI, Excel
 
-### 2. SQLite Practice
+### 2. SQLite Practice Repository
 - Practicing SQL queries and database operations.
 - Learning to retrieve, filter, and analyze structured data using SQLite.
 
